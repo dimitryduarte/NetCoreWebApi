@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dimitry.brito_q2pay\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dimitry.brito_q2pay\\.nuget\\packages"
+    ]
+  }
+}
